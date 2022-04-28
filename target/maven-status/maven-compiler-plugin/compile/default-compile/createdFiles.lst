@@ -1,8 +1,0 @@
-com\eidentification\technicaltest\service\StatServiceImpl.class
-com\eidentification\technicaltest\dto\StatDTO$StatDTOBuilder.class
-com\eidentification\technicaltest\dto\StatDTO.class
-com\eidentification\technicaltest\TechnicalTestApplication.class
-com\eidentification\technicaltest\service\StatService.class
-com\eidentification\technicaltest\dto\StatRequestDTO.class
-com\eidentification\technicaltest\controller\StatsController.class
-com\eidentification\technicaltest\WebConfig.class
